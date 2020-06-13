@@ -1,0 +1,75 @@
+[{
+	"title":"A star is born",
+	"image":"../Media/aStarIsBorn.jpg",
+	"description":"Seasoned musician Jackson Maine (Bradley Cooper) discovers-and falls in love with-struggling artist Ally (Gaga). She has just about given up on her dream to make it big as a singer - until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+	"trailer":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nSbzyEJ8X9E\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+	"rating": 8,
+	"critic": "With appealing leads, deft direction, and an affecting love story, A Star Is Born is a remake done right -- and a reminder that some stories can be just as effective in the retelling.",
+    "criticSource": ["Rotten Tomato", "https://www.rottentomatoes.com/"],
+	"fsk": 12,
+	"originalLanguage": "english",
+	"director": "Bradley Cooper"
+
+},{
+	"title":"Halloween",
+	"image":"../Media/Halloween.jpg",
+	"description":"Jamie Lee Curtis returns to her iconic role as Laurie Strode, who comes to her final confrontation with Michael Myers (Nick Castle and James Jude Courtney), the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
+	"trailer":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ek1ePFp-nBI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+	"rating": 8,
+	"critic": "Halloween largely wipes the slate clean after decades of disappointing sequels, ignoring increasingly elaborate mythology in favor of basic - yet still effective - ingredients.",
+    "criticSource": ["Rotten Tomato", "https://www.rottentomatoes.com/"],
+	"fsk": 16,
+	"originalLanguage": "english",
+	"director": "David Gordon Green"
+
+},{
+	"title":"First Man",
+	"image":"../Media/firstMan.jpg",
+	"description":"A Biopic on the life of the legendary American Astronaut Neil Armstrong from 1961-1969, on his journey to becoming the first human to walk the moon. Exploring the sacrifices and costs on the Nation and Neil himself, during one of the most dangerous missions in the history of space travel. ",
+	"trailer":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PSoRx87OO6k\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+	"rating": 7,
+	"critic": "First Man uses a personal focus to fuel a look back at a pivotal moment in human history - and takes audiences on a soaring dramatic journey along the way.",
+    "criticSource": ["Rotten Tomato", "https://www.rottentomatoes.com/"],
+	"fsk": 12,
+	"originalLanguage": "english",
+	"director": "Damien Chazelle"
+
+},{
+	"title":"El Royale",
+	"image":"../Media/elRoyale.jpg",
+	"description":"Six strangers, (Jeff Bridges, Cynthia Erivo, Dakota Johnson, Jon Hamm, Cailee Spaeny and Lewis Pullman) each with their own secrets, meet at the El Royale hotel of Lake Tahoe. Taking place over one night, alliances are made and secrets are revealed.",
+	"trailer":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/y7wzBVARwaU\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+	"rating": 7,
+	"critic": "Smart, stylish, and packed with solid performances, Bad Times at the El Royale delivers pure popcorn fun with the salty tang of social subtext.",
+    "criticSource": ["Rotten Tomato", "https://www.rottentomatoes.com/"],
+	"fsk": 16,
+	"originalLanguage": "english",
+	"director": "Drew Goddard"
+
+},{
+	"title":"Mandy",
+	"image":"../Media/mandy.jpg",
+	"description":"Taking place in 1983, Red is a lumberjack who lives in a secluded cabin in the woods. His artist girlfriend Mandy spends her days reading fantasy paperbacks. Then one day, she catches the eye of a crazed cult leader, who conjures a group of motorcycle-riding demons to kidnap her. ",
+	"trailer":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rI054ow6KJk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+	"rating": 7,
+	"critic": "Mandy's gonzo violence is fueled by a gripping performance by Nicolas Cage -- and anchored with palpable emotion conveyed between his volcanic outbursts.",
+    "criticSource": ["Rotten Tomato", "https://www.rottentomatoes.com/"],
+	"fsk": 18,
+	"originalLanguage": "english",
+	"director": "Panos Cosmatos and Casper Kelly"
+
+},{
+	"title":"Crazy Rich Asians",
+	"image":"../Media/crazyRichAsiens.jpg",
+	"description":"Rachel Chu, an American-born Chinese NYU professor, travels with her boyfriend, Nick to his hometown of Singapore for his best friend's wedding. Before long, his secret is out: Nick's family is wealthy, and he's considered the most eligible bachelor in Asia. Every single woman is incredibly jealous of Rachel and wants to bring her down.",
+	"trailer":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ZQ-YX-5bAs0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+	"rating": 8,
+	"critic": "With a terrific cast and a surfeit of visual razzle dazzle, Crazy Rich Asians takes a satisfying step forward for screen representation while deftly drawing inspiration from the classic -- and still effective -- rom-com formula.",
+    "criticSource": ["Rotten Tomato", "https://www.rottentomatoes.com/"],
+	"fsk": 6,
+	"originalLanguage": "english",
+	"director": "Jon M. Chu"
+
+}
+
+]

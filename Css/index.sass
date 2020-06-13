@@ -1,0 +1,226 @@
+@import "dropdown"
+@import "colorsFonts"
+@import "mixins"
+
+header
+  height: 2em
+  background-color: $DarkGrey
+  color: $Yellow
+  font-family: "Major Mono Display", monospace
+  text-align: center
+  font-size: 8em
+  display: flex
+  align-items: center
+  justify-content: center
+  text-shadow: 2px 3px 6px rgba(11,8,3,0.62)
+
+  +lg
+    font-size: 6em
+
+  +md
+    font-size: 6em
+
+
+
+nav
+  height: 4em
+  background-color: $Dark
+
+  ul
+    margin-block-start: 0
+    margin-block-end: 0
+    list-style: none
+    padding-top: 1em
+
+
+    li
+      display: inline
+      margin-right: 2em
+
+
+      a
+        font-family: $RobotoCondensed
+        color: $Whitish
+        text-decoration: none
+        font-size: 1.5em
+
+
+.main
+
+
+  padding: 3em
+  background-color: $GreyBlue
+
+  .row
+    display: flex
+    flex-direction: row
+
+
+    h2
+      margin-block-start: 0
+      margin-left: 45%
+      margin-right: 40%
+      color: $Whitish
+      text-align: center
+      font-family: "Roboto Condensed", sans-serif
+      font-size: 3em
+
+      +lg
+        margin-right: 30%
+
+      +md
+        margin-right: 30%
+
+
+      +sm
+        margin-right: 30%
+
+      +xs
+        margin-right: 30%
+
+
+footer
+  height: 4em
+
+  font-family: $RobotoCondensed
+  background-color: $Dark
+  color: $Whitish
+  display: flex
+  justify-content: center
+  align-items: center
+  font-size: 2em
+
+#content
+  display: flex
+  flex-direction: row
+  flex-wrap: wrap
+  justify-content: center
+
+
+  .row
+    width: 40%
+    margin-right: 2em
+    margin-bottom: 1em
+    background-color: $Dark
+    color: $Whitish
+    font-family: $RobotoCondensed
+    padding: 0.5em
+    border: 0.5px solid black
+
+    +lg
+      width: 43%
+
+    +md
+      width: 100%
+
+    +sm
+      width: 100%
+
+    +xs
+      width: 100%
+
+    .imageContainer
+      width: 40%
+      margin-right: 1em
+
+
+      img
+        width: 100%
+        object-fit: cover
+
+    .textContainer
+      width: 60%
+
+    .text
+      height: 13em
+
+      +lg
+        height: 10em
+
+      +md
+        height: 21em
+
+      +sm
+        height: 22em
+
+      +xs
+        height: 22em
+
+      h1
+        color: $Yellow
+        margin-block-end: 0.3em
+
+        +lg
+          font-size: 1.5em
+
+        +md
+          font-size: 3em
+
+      p
+        font-size: 0.9em
+
+        +lg
+          font-size: 0.7em
+
+        +md
+          font-size: 1.2em
+
+        +sm
+          font-size: 1.5em
+
+        +xs
+          font-size: 1.5em
+
+
+
+
+
+    .like
+      .row
+        width: 10em
+        margin-left: 8em
+        margin-right: 0
+        border: none
+
+
+        +lg
+          margin-left: 3em
+        +md
+          margin-left: 17em
+          width: 13em
+
+        +sm
+          margin-left: 16em
+          width: 13em
+
+        +xs
+          margin-left: 16em
+          width: 13em
+
+        button
+          background-color: $Dark
+          color: $Yellow
+          border: none
+          font-size: 1em
+          margin-right: 1em
+
+          +md
+            font-size: 1.5em
+
+          +sm
+            font-size: 1.5em
+
+          +xs
+            font-size: 1.5em
+
+        .likeCountContainer
+          background-color: $Yellow
+          color: $Whitish
+          border-radius: 50%
+          padding: 1em
+          width: 1em
+          text-align: center
+          font-size: 1em
+          font-weight: bold
+
+

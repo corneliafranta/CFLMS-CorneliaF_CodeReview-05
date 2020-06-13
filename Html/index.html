@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+
+    <!--Css -->
+    <link rel="stylesheet" href="../Css/index.css">
+    <!--Fonts -->
+    <script src="https://kit.fontawesome.com/3d3e4c8177.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Codystar&family=Fredericka+the+Great&family=Frijole&family=Major+Mono+Display&family=Roboto+Condensed:wght@300;400&family=Unica+One&display=swap" rel="stylesheet">
+    <!--jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+</head>
+<body>
+<header>Movie Factory </header>
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+    </ul>
+</nav>
+<div class="main">
+    <div class="row">
+        <h2>Movies</h2>
+        <div class="dropdown">
+            <button class="dropbtn"><i class='fas fa-caret-down'>&nbsp;Sort</i></button>
+            <div class="dropdown-content">
+                <button type="button" value="likes" data-order-direction="desc" id="sortByLikesButton">by Likes</button>
+                <button type="button" value="fsk" id="sortByFskButton">by Fsk</button>
+            </div>
+        </div>
+    </div>
+    <div id="content">
+</div>
+
+</div>
+<footer>Movie Factory</footer>
+
+
+<!--Script -->
+<script src="../Js/main.js"></script>
+
+
+</body>
+</html>

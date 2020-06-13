@@ -1,0 +1,55 @@
+@import "colorsFonts"
+
+/* Style The Dropdown Button */
+.dropbtn 
+
+  padding: 16px
+  font-size: 1.5em
+  border: none
+  cursor: pointer
+  color: $Whitish
+  background-color: $GreyBlue
+  font-family: $RobotoCondensed
+
+
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown 
+  position: relative
+  display: inline-block
+
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content 
+  display: none
+  position: absolute
+  background-color: $White
+  min-width: 100px
+  z-index: 1
+  button
+    color: black
+    padding: 12px 16px
+    text-decoration: none
+    display: block
+    border: none
+    border-bottom: 0.5px solid $MediumGrey
+    text-align: center
+    background-color: $Whitish
+    font-family: $RobotoCondensed
+    width: 100%
+    font-size: 1.3em
+
+  button:hover
+    background-color: $LightGrey
+
+/* Links inside the dropdown */
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content 
+  display: block
+
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn 
+  background-color: $LightGrey
