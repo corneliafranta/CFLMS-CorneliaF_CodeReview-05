@@ -113,7 +113,7 @@ function sortContent() {
     var sortBy = this.value;
     var orderDirection = this.getAttribute('data-order-direction');
     var sortedMovies = movieObjects.sort(propComparator(sortBy));
-    if(orderDirection === "desc") {
+    if (orderDirection === "desc") {
         sortedMovies = sortedMovies.reverse()
     }
     populateSite(sortedMovies);
